@@ -42,7 +42,7 @@ def select_city():
     elif city_choice == 0:
       exit()
     else:
-        print("Invalid choice!")
+        print("Invalid choice! Please give up and try again")
         select_city()
 
 #Select Theatre 
